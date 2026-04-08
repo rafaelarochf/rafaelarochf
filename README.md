@@ -34,7 +34,7 @@ Atuar como **Analista de Dados**, aplicando habilidades em modelagem de dados, c
 
 ## 📈 Meu Portfólio
 - [Análise de Vendas no Power BI](https://github.com/rafaelarochf/analise-vendas-powerbi)
-- [EDA de Vendas com Python](link-do-seu-projeto-aqui)
+- [EDA de Vendas com Python](https://github.com/rafaelarochf/vendas-eda-python)
 
 ![Dashboard Preview](imagens/dashprints/dashboard.gif)
 
