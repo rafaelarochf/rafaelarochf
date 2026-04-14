@@ -35,6 +35,7 @@ Atuar como **Analista de Dados**, aplicando habilidades em modelagem de dados, c
 ## 📈 Meu Portfólio
 - [Análise de Vendas no Power BI](https://github.com/rafaelarochf/analise-vendas-powerbi)
 - [EDA de Vendas com Python](https://github.com/rafaelarochf/vendas-eda-python)
+- [Análise de Streaming com SQL](https://github.com/rafaelarochf/streaming-sql-analysis)
 
 ![Dashboard Preview](imagens/dashprints/dashboard.gif)
 
